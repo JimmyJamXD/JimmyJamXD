@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimmyJamXD
-- 👀 I’m interested in becoming a software engineer
+- 👀 I’m interested in becoming a Front End Engineer/Software Engineer
 - 🌱 I’m currently learning python and other languages to sharpen my skills
 - 💞️ I’m looking to collaborate on projects that would help me improve and sharpen my skills and gain new prespective on the myself and my shortcomings
 
